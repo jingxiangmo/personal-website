@@ -1,7 +1,7 @@
 {
   "name": "website",
   "version": "0.1.0",
-  "homepage": "https://jingxiangmo.com",
+  "homepage": "https://jingxiangmo.com/",
   
   "dependencies": {
     "@material-ui/core": "^4.12.3",
