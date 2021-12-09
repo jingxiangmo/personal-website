@@ -7,42 +7,42 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Jingxiang Mo',
-  role: 'Finance and Computer Science Student',
+  role: 'Finance & CS Student',
   description:
-    'I’m passionate about FinTech and using it to solve societal problems. My interests include epistemology, entrepreneurship, investment banking, and military/game strategies.',
+    'I aspire to solve problems with software engineering, financial engineering, and entrepreneurial skills. I am currently a student at McGill University studying Computer Science and Finance.',
   resume: 'https://example.com',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/jingxiangmo?originalSubdomain=ca',
+    github: 'https://github.com/jingxiangmo',
   },
 }
+
 
 const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Financial Statements Analyzer',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+      'Working on a financial statement analyzer to support a trading APi. providing a report on the company\'s financial performance and relative standing in the market.',
+    stack: ['Python', 'React'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
   {
-    name: 'Project 2',
+    name: 'Physics COVID-19 Particles Simulation',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+      'Led a project to simulate the effectiveness of masks in a physics-based way. The simulation is based on a particle physics model.',
+    stack: ['Python'],
     sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    livePreview: 'https://devpost.com/software/mcla',
   },
   {
-    name: 'Project 3',
+    name: 'Student Society Website',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Created a website for the McGill Management student society. Generated more than 400 views per month.',
+    stack: ['Website Builder', 'Java Script', 'HTML', 'CSS'],
+    livePreview: 'https://www.musmcgill.com',
   },
 ]
 
@@ -50,21 +50,21 @@ const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
   'HTML',
-  'CSS',
+  'Java',
+  'Python',
   'JavaScript',
-  'TypeScript',
-  'React',
-  'Redux',
-  'SASS',
-  'Material UI',
+  'C',
+  'Bash',
+  'Financial Modeling',
+  'UX Design',
+  'Linux',
   'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
+  'React',
+  'Financial Accounting',
 ]
 
 const contact = {
-  // email is optional - if left empty Contact section won't show up
+  // email is optional
   email: 'jingxiangmo@gmail.com',
 }
 
