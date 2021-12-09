@@ -1,7 +1,7 @@
 {
   "name": "website",
   "version": "0.1.0",
-  "homepage": "https://jingxiangmo.github.io/personal-website/",
+  "homepage": "jingxiangmo.github.io",
   
   "dependencies": {
     "@material-ui/core": "^4.12.3",
@@ -24,8 +24,7 @@
     "eject": "react-scripts eject",
     "lint": "eslint .",
     "format": "prettier --write \"**/*.+(js|jsx|json|css|md)\"",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "npm run build && gh-pages -d build"
   },
   "browserslist": {
     "production": [
