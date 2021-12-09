@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: '', // TODO: add homepage link (i.e., jingxiang mo.com)
+  homepage: 'https://github.com/jingxiangmo/jingxiang-mo-website', 
   title: 'Jingxiang Mo',
 }
 
@@ -43,6 +43,13 @@ const projects = [
       'Created a website for the McGill Management student society. Generated more than 400 views per month.',
     stack: ['Website Builder', 'Java Script', 'HTML', 'CSS'],
     livePreview: 'https://www.musmcgill.com',
+  },
+  {
+  name: 'Hand Gesture Recognition Robot Car',
+  description:
+    'Designing and making a robot car that can recognize hand gestures and drive the car accordingly.',
+  stack: ['Python', 'PiTop', 'Arduino', 'Raspberry Pi'],
+  livePreview: 'https://www.musmcgill.com',
   },
 ]
 
