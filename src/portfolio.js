@@ -24,7 +24,7 @@ const projects = [
   {
     name: 'Financial Statements Analyzer',
     description:
-      'Working on a financial statement analyzer to support a trading APi. providing a report on the company\'s financial performance and relative standing in the market.',
+      'Working on a financial statement analyzer to support a trading API. providing a report on the company\'s financial performance and relative standing in the market.',
     stack: ['Python', 'React'],
     sourceCode: 'https://github.com',
     // livePreview: 'https://github.com',
