@@ -4,8 +4,10 @@ import { ThemeProvider } from './contexts/theme'
 import './index.css'
 
 render(
-  <ThemeProvider>
+
+  <ThemeProvider base='/'>
     <App />
   </ThemeProvider>,
+
   document.getElementById('root')
 )
