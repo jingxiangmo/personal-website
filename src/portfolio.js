@@ -1,11 +1,9 @@
 const header = {
-  // all the properties are optional - can be left empty or deleted
   homepage: 'https://jingxiangmo.com', 
   title: 'JXM',
 }
 
 const about = {
-  // all the properties are optional - can be left empty or deleted
   name: 'Jingxiang Mo',
   role: 'Finance & CS Student',
   description:
@@ -18,8 +16,6 @@ const about = {
 }
 
 const projects = [
-  // projects can be added an removed
-  // if there are no projects, Projects section won't show up
   {
     name: 'Financial Statements Analyzer',
     description:
@@ -53,8 +49,6 @@ const projects = [
 ]
 
 const skills = [
-  // skills can be added or removed
-  // if there are no skills, Skills section won't show up
   'HTML',
   'Java',
   'Python',
@@ -67,10 +61,12 @@ const skills = [
   'Git',
   'React',
   'Financial Accounting',
+  'Google Analytics',
+  'Web Design',
+  'First Aid',
 ]
 
 const contact = {
-  // email is optional
   email: 'jingxiangmo@gmail.com',
 }
 
