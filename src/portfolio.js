@@ -17,7 +17,6 @@ const about = {
   },
 }
 
-
 const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
