@@ -1,7 +1,7 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://jingxiangmo.com', 
-  title: 'Jingxiang Mo',
+  title: 'JXM',
 }
 
 const about = {
@@ -10,7 +10,7 @@ const about = {
   role: 'Finance & CS Student',
   description:
     'I aspire to solve problems with software engineering, financial engineering, and entrepreneurial skills. I am currently a student at McGill University studying Computer Science and Finance.',
-  resume: 'https://example.com',
+  resume: 'https://www.linkedin.com/in/jingxiangmo?originalSubdomain=ca',
   social: {
     linkedin: 'https://www.linkedin.com/in/jingxiangmo?originalSubdomain=ca',
     github: 'https://github.com/jingxiangmo',
@@ -27,7 +27,7 @@ const projects = [
       'Working on a financial statement analyzer to support a trading APi. providing a report on the company\'s financial performance and relative standing in the market.',
     stack: ['Python', 'React'],
     sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    // livePreview: 'https://github.com',
   },
   {
     name: 'Physics COVID-19 Particles Simulation',
@@ -49,7 +49,7 @@ const projects = [
   description:
     'Designing and making a robot car that can recognize hand gestures and drive the car accordingly.',
   stack: ['Python', 'PiTop', 'Arduino', 'Raspberry Pi'],
-  livePreview: 'https://www.musmcgill.com',
+  // livePreview: 'https://www.musmcgill.com',
   },
 ]
 
