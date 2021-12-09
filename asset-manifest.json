@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jingxiangmo-website/static/css/main.f3beb914.chunk.css",
-    "main.js": "/jingxiangmo-website/static/js/main.30526f03.chunk.js",
-    "main.js.map": "/jingxiangmo-website/static/js/main.30526f03.chunk.js.map",
+    "main.js": "/jingxiangmo-website/static/js/main.78dacabc.chunk.js",
+    "main.js.map": "/jingxiangmo-website/static/js/main.78dacabc.chunk.js.map",
     "runtime-main.js": "/jingxiangmo-website/static/js/runtime-main.ba17f415.js",
     "runtime-main.js.map": "/jingxiangmo-website/static/js/runtime-main.ba17f415.js.map",
     "static/js/2.a922a112.chunk.js": "/jingxiangmo-website/static/js/2.a922a112.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.ba17f415.js",
     "static/js/2.a922a112.chunk.js",
     "static/css/main.f3beb914.chunk.css",
-    "static/js/main.30526f03.chunk.js"
+    "static/js/main.78dacabc.chunk.js"
   ]
 }
