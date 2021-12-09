@@ -12,6 +12,5 @@ git push
 echo "Deploying the project..."
 npm run deploy
 
-# goto website link
-echo "Opening the website..."
-open https://www.jingxiangmo.com
+# website url
+echo "Website url: https://www.jingxiangmo.com"
