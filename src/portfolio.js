@@ -46,6 +46,14 @@ const projects = [
   stack: ['Python', 'PiTop', 'Arduino', 'Raspberry Pi'],
   // livePreview: 'https://www.musmcgill.com',
   },
+  {
+  name: 'Personal Website',
+  description:
+    'Created a personal website for myself, learning how to use React and Node.js.',
+  stack: ['React', 'Java Script', 'HTML', 'CSS'],
+  livePreview: 'https://jingxiangmo.com',
+  sourceCode: 'https://github.com/jingxiangmo/personal-website',
+  },
 ]
 
 const skills = [

@@ -10,6 +10,7 @@ echo
 # deploy script for the webapp
 npm run deploy
 
+
 echo 
 echo "=========================================================="
 echo "Committing and pushing to github..."
@@ -32,3 +33,4 @@ echo
 
 # website url
 echo "Website url: https://www.jingxiangmo.com"
+echo 
