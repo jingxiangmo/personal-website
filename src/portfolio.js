@@ -64,14 +64,11 @@ const skills = [
   'C',
   'Bash',
   'Financial Modeling',
-  'UX Design',
   'Linux',
   'Git',
   'React',
   'Financial Accounting',
   'Google Analytics',
-  'Web Design',
-  'First Aid',
 ]
 
 const contact = {
