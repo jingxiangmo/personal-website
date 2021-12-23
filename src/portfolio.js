@@ -5,7 +5,7 @@ const header = {
 
 const about = {
   name: 'Jingxiang Mo',
-  role: 'Finance & CS Student',
+  role: 'CS & Finance Student',
   description:
     'I aspire to solve problems with software engineering, financial engineering, and entrepreneurial skills. I am currently a student at McGill University studying Computer Science and Finance.',
   resume: 'https://www.linkedin.com/in/jingxiangmo?originalSubdomain=ca',
@@ -39,6 +39,8 @@ const projects = [
     stack: ['Website Builder', 'Java Script', 'HTML', 'CSS'],
     livePreview: 'https://www.musmcgill.com',
   },
+
+  /*
   {
   name: 'Hand Gesture Recognition Robot Car',
   description:
@@ -46,6 +48,8 @@ const projects = [
   stack: ['Python', 'PiTop', 'Arduino', 'Raspberry Pi'],
   // livePreview: 'https://www.musmcgill.com',
   },
+  */
+
   {
   name: 'Personal Website',
   description:
