@@ -8,7 +8,6 @@ const about = {
   role: 'CS & Finance Student',
   description:
     'I aspire to solve problems with software engineering, financial engineering, and entrepreneurial skills. I am currently a student at McGill University studying Computer Science and Finance.',
-  resume: 'https://www.linkedin.com/in/jingxiangmo?originalSubdomain=ca',
   social: {
     linkedin: 'https://www.linkedin.com/in/jingxiangmo?originalSubdomain=ca',
     github: 'https://github.com/jingxiangmo',
