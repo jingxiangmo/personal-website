@@ -5,10 +5,11 @@ const header = {
 
 const about = {
   name: 'Jingxiang Mo',
-  role: 'CS & Finance Student',
+  role: 'Student Developer',
   description:
-    'I aspire to solve problems with software engineering, financial engineering, and entrepreneurial skills. I am currently a student at McGill University studying Computer Science and Finance.',
-  social: {
+    'I study Computer Science and Finance at McGill University, with a specific interest in robotics and decentralization. I aspire to solve problems with my software engineering, financial engineering, and entrepreneurship skills.',
+    resume: 'https://www.linkedin.com/in/jingxiangmo?originalSubdomain=ca',
+    social: {
     linkedin: 'https://www.linkedin.com/in/jingxiangmo?originalSubdomain=ca',
     github: 'https://github.com/jingxiangmo',
   },
@@ -18,21 +19,20 @@ const projects = [
   {
     name: 'Financial Statements Analyzer',
     description:
-      'Working on a financial statement analyzer to support a trading API. providing a report on the company\'s financial performance and relative standing in the market.',
-    stack: ['Python', 'React'],
+      'Developing a professional application that analyzes financial statements to generate a report of the company\'s financial performance compared to competitors.',
+    stack: ['Python', 'Django', 'Alpha Vantage API', 'yfinance'],
     sourceCode: 'https://github.com',
-    // livePreview: 'https://github.com',
   },
   {
-    name: 'Physics COVID-19 Particles Simulation',
+    name: 'Mask Effectiveness Physics Particles Simulator',
     description:
       'Led a project to simulate the effectiveness of masks in a physics-based way. The simulation is based on a particle physics model.',
-    stack: ['Python'],
+    stack: ['Python, vpython'],
     sourceCode: 'https://github.com',
     livePreview: 'https://devpost.com/software/mcla',
   },
   {
-    name: 'Student Society Website',
+    name: 'McGil Management Undergraduate Society Website',
     description:
       'Created a website for the McGill Management student society. Generated more than 400 views per month.',
     stack: ['Website Builder', 'Java Script', 'HTML', 'CSS'],
@@ -52,26 +52,24 @@ const projects = [
   {
   name: 'Personal Website',
   description:
-    'Created a personal website for myself, learning how to use React and Node.js.',
-  stack: ['React', 'Java Script', 'HTML', 'CSS'],
+    'Developed a dynamic personal website using using React to display my resume and projects.',
+  stack: ['JavaScript', 'HTML/CSS', 'React', 'Node.js'],
   livePreview: 'https://jingxiangmo.com',
   sourceCode: 'https://github.com/jingxiangmo/personal-website',
   },
 ]
 
 const skills = [
-  'HTML',
-  'Java',
   'Python',
-  'JavaScript',
+  'Java',
   'C',
   'Bash',
-  'Financial Modeling',
+  'HTML/CSS',
+  'JavaScript',
+  'Solidity',
+  'Blockchain',
   'Linux',
-  'Git',
-  'React',
-  'Financial Accounting',
-  'Google Analytics',
+  'Financial Modeling',
 ]
 
 const contact = {

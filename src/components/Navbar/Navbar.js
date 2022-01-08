@@ -54,6 +54,16 @@ const Navbar = () => {
             </a>
           </li>
         ) : null}
+
+        <li className='nav__list-item'>
+          <a
+            href='https://www.goodreads.com/user/show/86265635-jingxiang-mo'
+            onClick={toggleNavList}
+            className='link link--nav'
+          >
+            Readings
+          </a>
+        </li>
       </ul>
 
       <button
