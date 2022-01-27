@@ -19,15 +19,15 @@ const projects = [
   {
     name: 'Better.Me AI Mental Health Recommendations',
     description:
-        'An AI-powered personal journal that uses NLP-based analytics and machine learning algorithms to provide appropriate mental health resources and suicide prevention steps.',
+        'An AI-powered personal journal that uses NLP analytics and machine learning algorithms to provide appropriate mental health resources and suicide prevention.',
     stack: ['Python', 'Google Cloud', 'NLP', 'Machine Learning', 'JavaScript'],
     livePreview: 'https://share.streamlit.io/better-me-team/better.me/main/app.py',
     sourceCode: 'https://github.com/better-me-team/better.me/tree/de2385cd98051e9b26c3e315a299a20b1a7ed239',
   },
   {
-    name: 'Financial Statements Analyzer',
+    name: 'Financial Statements Analyzer (In Progress)',
     description:
-      'Developing a professional application that analyzes financial statements to generate a report of the company\'s financial performance compared to competitors.',
+      'A professional application that analyzes financial statements and market data evaluate company standing.',
     stack: ['Python', 'Django', 'Alpha Vantage API', 'yfinance'],
     sourceCode: 'https://github.com',
   },
@@ -42,7 +42,7 @@ const projects = [
   {
     name: 'McGill Management Undergraduate Society Website',
     description:
-      'Created a website for the McGill Management student society. Generated more than 400 views per month.',
+      'A website for the McGill Management Student Society used to communicate with 2500 undergraduate students.',
     stack: ['Website Builder', 'Java Script', 'HTML', 'CSS'],
     livePreview: 'https://www.musmcgill.com',
   },
@@ -53,15 +53,6 @@ const projects = [
     stack: [],
     livePreview: 'https://github.com/McGill-Innovations',
   },
-  /*
-  {
-  name: 'Hand Gesture Recognition Robot Car',
-  description:
-    'Designing and making a robot car that can recognize hand gestures and drive the car accordingly.',
-  stack: ['Python', 'PiTop', 'Arduino', 'Raspberry Pi'],
-  // livePreview: 'https://www.musmcgill.com',
-  },
-  */
 
   {
   name: 'Personal Website',
@@ -87,10 +78,10 @@ const skills = [
   'Python',
   'Java',
   'C',
-  'Bash',
   'HTML/CSS',
   'JavaScript',
   'Solidity',
+  'Bash',
   'Blockchain',
   'Linux',
   'Financial Modeling',
