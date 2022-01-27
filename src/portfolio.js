@@ -8,7 +8,7 @@ const about = {
   role: 'Student Developer',
   description:
     'I\'m a second-year Computer Science & Finance student at McGill University interested in blockchain and machine learning. You can always find me playing chess, working out, or reading novels near campus.',
-    resume: 'https://www.linkedin.com/in/jingxiangmo?originalSubdomain=ca',
+    resume: 'https://drive.google.com/file/d/1A4qtT_DDsAa6j15Rh7Vg9lQVE9NyKIjH/view?usp=sharing',
     social: {
     linkedin: 'https://www.linkedin.com/in/jingxiangmo?originalSubdomain=ca',
     github: 'https://github.com/jingxiangmo',
