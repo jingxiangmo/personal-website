@@ -5,9 +5,9 @@ const header = {
 
 const about = {
   name: 'Jingxiang Mo',
-  role: 'Student Developer',
+  role: 'Software Developer',
   description:
-    'I\'m a second-year Computer Science & Finance student at McGill University interested in blockchain and machine learning. You can always find me playing chess, working out, or reading novels near campus.',
+    'A student, developer, and global citizen. I\'m a second-year Computer Science & Finance student at McGill University specifically interested in human-machine collaboration frameworks. During my free time, you can always find me playing chess, learning guitar, working out, or reading novels.',
     resume: '/assets/resume.pdf',
     social: {
     linkedin: 'https://www.linkedin.com/in/jingxiangmo?originalSubdomain=ca',
@@ -47,11 +47,11 @@ const projects = [
     livePreview: 'https://www.musmcgill.com',
   },
   {
-    name: 'McGil Innovations (MI)',
+    name: 'McGil Collaborations (MC)',
     description:
-      'Created a community dedicated to empowering McGill developers, building innovative academic tools, and supporting students in their career aspirations. Join us! Join Mi!',
+      'Creating a community dedicated to empowering McGill developers, building innovative academic tools, and supporting students in their career aspirations. Join us! Join Mi!',
     stack: [],
-    livePreview: 'https://github.com/McGill-Innovations',
+    livePreview: 'https://github.com/McGill-Collaborations',
   },
 
   {
