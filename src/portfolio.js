@@ -21,8 +21,7 @@ const projects = [
     description:
         'Innovative QR point of sale and payment rail system for cafes, restaurants, and bars. Bringing a simple, effective, and free solution to 5 restaurants in Montreal.',
     stack: ['ReactJS', 'Stripe', 'Firebase'],
-    livePreview: '',
-    sourceCode: '',
+    livePreview: 'https://customer-mosaique.firebaseapp.com/',
   },
   {
     name: 'Better Me - AI Mental Health Recommendations',
