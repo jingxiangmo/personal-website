@@ -7,7 +7,7 @@ const about = {
   name: 'Jingxiang Mo',
   role: 'Software Developer',
   description:
-    'A student, developer, and global citizen. I\'m a second-year Computer Science & Finance student at McGill University specifically interested in human-machine collaboration frameworks. During my free time, you can always find me playing chess, learning guitar, working out, or reading novels.',
+    'I\'m a second-year Computer Science & Business student at McGill University specifically interested in human-machine collaboration frameworks. During my free time, you can always find me playing chess, learning guitar, working out, or reading novels.',
     resume: '/assets/resume.pdf',
     social: {
     linkedin: 'https://www.linkedin.com/in/jingxiangmo?originalSubdomain=ca',
@@ -17,7 +17,15 @@ const about = {
 
 const projects = [
   {
-    name: 'Better.Me AI Mental Health Recommendations',
+    name: 'Streamline - Quick Response Paymentrail',
+    description:
+        'Innovative QR point of sale and payment rail system for cafes, restaurants, and bars. Bringing a simple, effective, and free solution to 5 restaurants in Montreal.',
+    stack: ['ReactJS', 'Stripe', 'Firebase'],
+    livePreview: '',
+    sourceCode: '',
+  },
+  {
+    name: 'Better Me - AI Mental Health Recommendations',
     description:
         'An AI-powered personal journal that uses NLP analytics and machine learning algorithms to provide appropriate mental health resources and suicide prevention.',
     stack: ['Python', 'Google Cloud', 'NLP', 'Machine Learning', 'JavaScript'],
@@ -43,34 +51,24 @@ const projects = [
     name: 'McGill Management Undergraduate Society Website',
     description:
       'A website for the McGill Management Student Society used to communicate with 2500 undergraduate students.',
-    stack: ['Website Builder', 'Java Script', 'HTML', 'CSS'],
+    stack: ['Website Builder', 'HTML', 'CSS'],
     livePreview: 'https://www.musmcgill.com',
   },
-  {
-    name: 'McGil Collaborations (MC)',
-    description:
-      'Creating a community dedicated to empowering McGill developers, building innovative academic tools, and supporting students in their career aspirations. Join us! Join Mi!',
-    stack: [],
-    livePreview: 'https://github.com/McGill-Collaborations',
-  },
-
   {
   name: 'Personal Website',
   description:
     'Created my personal website serving as a home page for my presence online. This website was created using React framework with JavaScript and HTML/CSS.',
-  stack: ['JavaScript', 'HTML/CSS', 'React', 'Node.js'],
+  stack: ['JavaScript', 'HTML/CSS', 'ReactJS', 'Node.js'],
   livePreview: 'https://jingxiangmo.com',
   sourceCode: 'https://github.com/jingxiangmo/personal-website',
   },
-
   {
-    name: 'Hospital Priority Queue',
+    name: 'zhangqing.ca',
     description:
-        'Designed a sample hospital dynamic queue system using different data structures and algorithms.',
-    stack: ['Java'],
-    sourceCode: 'https://github.com',
-  },
-
+        'A portfolio website for an Vancouver artist.',
+    stack: ['ReactJS', 'TailwindCSS'],
+    livePreview: 'https://zhangqing.ca',
+  }
 ]
 
 
